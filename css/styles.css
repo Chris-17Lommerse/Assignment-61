@@ -1,0 +1,9 @@
+.img {
+    position: fixed;
+    top: 75px;
+    left: 25px;
+}
+
+.navbar {
+    background-color: black;
+}
